@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Hi, I'm Alex
+
+I consider myself to be an IT enthusiast and connoisseur from Europe, planet Earth. 
 
 You can use the [editor on GitHub](https://github.com/alexbr00ken/alexbr00ken.gihub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
